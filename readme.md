@@ -21,3 +21,9 @@ docker run -itd \
         registry.cn-hangzhou.aliyuncs.com/octuc/server-e:1.0.0 bash
 ```
 
+checkout
+```
+svn checkout http://192.168.6.100/svn/windows/branches/***/mbedtls --username tina
+git clone https://github.com/nginx/nginx.git
+```
+
